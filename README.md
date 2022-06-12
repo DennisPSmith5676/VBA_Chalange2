@@ -45,7 +45,7 @@ WE only have the 12 stocks data to get the results from, and they want it to run
 With these Macros created we can clearly see the table with analysis for each year. Steve can read the table lot easier due to conditional formatting. Updated Macro's can be used to run the analysis for any year.
 
 We refactored the codes to run faster in VBA so that if Steve has a larger dataset he can analyze it quickly.
-Advanatages of Refactoring codes.
+Advantages of Refactoring codes.
 
 Refactoring is a key part of the coding process. It just makes the code more efficient with fewer steps.
 Refactoring codes help reduce the run time of the Macros.
